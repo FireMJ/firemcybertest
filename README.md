@@ -1,7 +1,9 @@
 <h1>Hi, I'm Jeffrey! <br/><a href="https://github.com/FireMJ">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
 <h2>Cybersecurity Projects:</h2>
-- [Active Directory Home Lab] (https://github.com/firemcybertest/LABURL)
+-[Active Directory Home Lab](https://github.com/firemcybertest/LABURL)
+
+<h2>Certifications</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
